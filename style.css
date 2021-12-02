@@ -1,0 +1,120 @@
+body {
+    background-color: rgba(128, 128, 128, 0.219);
+}
+.container {
+    display: flex;
+    position: relative;
+    left: 30%;
+    margin: 1%;
+    width: 150px;
+}
+
+img {
+    margin: 3px;
+    width: 70px;
+    height: 110px;
+    border-radius: 10px;
+}
+
+.new {
+    display: flex;
+}
+.plus {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    bottom: 30px;
+    right: 20%;
+    
+    
+}
+
+.next {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    top: 30%;
+    right: -5%;
+   
+    
+}
+.box {
+    width: 150px;
+    height: 100px;
+    margin: 1%;
+}
+
+div {
+    position: relative;
+}
+
+.sam {}
+
+.inner {
+    position: absolute;
+    top: 10px;
+    left: 5%;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: solid; color: rgb(0, 89, 255);
+    
+}
+.centre {
+    position: absolute;
+    top: 68%;
+    left: 18%;
+    color: white;
+    font-family: Georgia;
+    font-size: small;
+}
+
+.me {
+}
+
+.bro {
+}
+
+.contain {
+    left: 31%;
+    width: 380px;
+    height: 100px;
+    background-color: white;
+    border-radius: 5%;
+    
+}
+.sammy {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+        
+}
+.search {
+    position: absolute;
+    top: 6px;
+    left: 40px;
+    width: 300px;
+}
+
+.search {
+    border: 1px solid grey;
+    border-radius: 15px;
+    height: 20px;
+    background-color: rgba(128, 128, 128, 0.274);
+}   
+
+.contain2 {
+   display: flex;
+}
+.video {
+    
+    width: 20px;
+   height: 18px;
+   margin: 15px;
+}
+
+.text {
+    font-size: small;
+}
+
